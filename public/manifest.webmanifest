@@ -1,0 +1,10 @@
+{
+  "name": "Aegis — Pregnancy Care Companion",
+  "short_name": "Aegis",
+  "description": "A calm local workspace for pregnancy and postpartum care preparation.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f7f4ed",
+  "theme_color": "#166f6a",
+  "icons": [{ "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }]
+}
