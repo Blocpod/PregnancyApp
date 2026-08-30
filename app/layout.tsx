@@ -9,6 +9,9 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
+  metadataBase: new URL(
+    'https://aegis-pregnancy-companion.blocpodcreative.chatgpt.site',
+  ),
   title: 'Aegis — Your pregnancy care companion',
   description:
     'A calm, private workspace for pregnancy and postpartum appointments, notes, tracking, and care preparation.',
